@@ -1,18 +1,14 @@
-# loginpagev1
+# PeerLearning 
 
-A new Flutter project.
+This a new social project for any learner to intract with a trainer. This is about peer to peer learning and how access to a trainer could be given to trainee
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This app gives access to your trainer of your interest
 
-A few resources to get you started if this is your first Flutter project:
+A few resources to get you started with this project
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Download this app
+- start using it.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# peerlearner
 # peerlearner
